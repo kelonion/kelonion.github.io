@@ -1,12 +1,10 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title: "This is where I begin"
+date: 2019-04-30T12:34:30-04:00
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Story
 ---
 
 This post has been updated and should show a modified date if used in a layout.
