@@ -16,15 +16,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hanz Yu"
+title                    : ""
 title_separator          : "|"
-name                     : "Hanz. Yu"
+name                     : "Hanz Yu"
 description              : "Welcome to my site."
 url                      : "https://kelonion.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kelonion/kelonion.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : #"/assets/images/profile-photo.jpeg"
+logo                     : "/assets/images/logo.jpeg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
