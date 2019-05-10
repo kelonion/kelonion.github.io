@@ -6,8 +6,6 @@ categories:
 tags:
   - matplotlib
 ---
-
-# 如何在macos上安装matplotlib字体
 ## 1. 下载安装字体
 由于matplotlib只支持.ttf格式的字体，所以需要先在网上下载相应格式的字体并安装。
 我个人比较喜欢方正的字体，所以选择了[方正黑体](http://www.foundertype.com/index.php/FontInfo/index.html?id=131)（方正已支持个人非商业免费使用字体了）
@@ -30,8 +28,9 @@ _rebuild()
 `/Users/{你的用户名}/anaconda3/lib/python3.7/site-packages/matplotlib/mpl-data/`
 双击打开后，找到`font.sans-serif`，删掉前面的`#`，并在后面添加字体的名词：
 ```
-# 原配置文件中显示：
+原配置文件中显示：
 #font.sans-serif: DejaVu Sans, Bitstream Vera Sans
-# 修改为：(把字体添加到最前面)
+
+修改为：(把字体添加到最前面)
 font.sans-serif: FZHei-B01S, DejaVu Sans, Bitstream Vera Sans
 ```
