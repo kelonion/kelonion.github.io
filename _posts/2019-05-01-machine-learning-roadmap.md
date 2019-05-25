@@ -1,10 +1,10 @@
 ---
-title: "Machine Learning Materials"
-date: 2019-04-30
+title: "机器学习参考资料"
+date: 2019-05-01
 categories:
   - Blog
 tags:
-  - AI
+  - Machine Learning
 ---
 
 In this post, I listed out all the materials I used when I started to learn Machine Learning from zero.
