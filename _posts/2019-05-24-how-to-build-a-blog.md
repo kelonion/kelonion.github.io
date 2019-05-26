@@ -2,7 +2,7 @@
 title: "如何搭建个人博客(1) -- 5分钟搭建免费个人博客"
 date: 2019-05-24
 categories:
-  - Blog
+  - Tutorial
 tags:
   - jekyll
   - Blog
