@@ -2,14 +2,13 @@
 title: "学习Google如何用DL改变世界"
 date: 2019-06-01
 categories:
-  - Tech
+  - Blog
 tags:
   - Machine Learning
-  - Blog
 toc: true
 toc_label: 文章目录
 ---
-
+1
 在前不久刚举行完毕的一年一度Google开发者大会 I/O'19 上, Google AI的负责人Jeff Dean在一个小型讨论会上介绍了Google是如何用深度学习技术来解决世界上最具挑战性的问题的（[油管链接](https://www.youtube.com/watch?v=rP8CGyDbxBY&list=WL&index=14&t=0s)）。这个演讲目的其实主要是为了介绍Google在各种具有挑战性的工程问题上作出的努力，但Google作为科技特别是深度学习技术的领头羊，他们的成果也在一定程度上代表了这个领域的最新进展，所以这个演讲的内容对于我们了解人工智能技术的发展状况起到一定帮助。
 
 ## 深度学习在近几年的进展

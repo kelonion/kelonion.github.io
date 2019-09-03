@@ -2,7 +2,7 @@
 title: "Machine Learning 从零开始"
 date: 2019-05-24
 categories:
-  - Tech
+  - Blog
 tags:
   - Machine Learning
   - Tutorial

@@ -5,7 +5,6 @@ categories:
   - Tutorial
 tags:
   - jekyll
-  - Blog
   - Github
 ---
 
