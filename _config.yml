@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "hanz" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Hanz. Yu"
 title_separator          : "|"
-name                     : "Hanz Yu"
-description              : "Welcome to my site."
+name                     : "Hanz. Yu"
+description              : "This is Hanz."
 url                      : "https://kelonion.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kelonion/kelonion.github.io"
