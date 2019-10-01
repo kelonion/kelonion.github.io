@@ -1,5 +1,5 @@
 ---
-title: "到底该如何学习才是最有效的？"
+title: "如何学习才最有效？"
 date: 2019-09-03
 categories:
   - Blog

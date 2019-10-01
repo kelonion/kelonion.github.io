@@ -3,11 +3,31 @@
    ========================================================================== */
 
 /* Colors */
-$text-color: #505050 !default;
+$text-color: #696969 !default;
 $muted-text-color: #7e7e7e !default;
 $primary-color: #888888 !default;
 $link-color: #00916a !default;
-$footer-background-color: #fafafa !default;
+$footer-background-color: #ffffff !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 
+.page__content {
+    line-height: 2;
+  }
+
+
+.achieve_tag {
+    opacity: 0.8;
+    display: inline-block;
+    margin: 0 5px 0 0;
+    padding: 2px 5px;
+    text-decoration: none;
+    border: 1px solid #b1b1b1;
+    border-radius: 5px;
+    font-size: 10px;
+    color: $muted-text-color;
+}
+
+a {
+  text-decoration: none;
+}
