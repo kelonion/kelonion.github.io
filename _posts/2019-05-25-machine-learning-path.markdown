@@ -4,7 +4,7 @@ date: 2019-05-24
 categories:
   - Blog
 tags:
-  - Machine Learning
+  - Deep Learning
   - Tutorial
 toc: true
 toc_label: 文章目录

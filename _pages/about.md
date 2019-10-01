@@ -5,9 +5,16 @@ title: "About"
 author_profile: true
 ---
 
->Work like hell, and advertise.
+>Early to bed, early to rise, work like hell, and advertise!            - Ted Turner
 
 
-我是余瀚中，不甘平凡理工男，三年产品经理，设计打造过多款Web端、App端、微信端产品。目前 gap year 在美国明州。
+博主Hanz，余瀚中。
 
-自学编程，正在学习`Machine Learning`，主攻NLP方向。
+曾任三年产品经理，打造过多款Web端、App端、微信端产品。
+
+自学编程，数据科学，以及深度学习技术，现于美国明尼苏达州**梅奥医学中心**医学信息实验室任研究员。
+
+研究方向：
+- 医学影像的智能识别诊断
+- 基于Embedding的癌症与基因关系
+- 利用自然语言处理从病历中提取关键信息

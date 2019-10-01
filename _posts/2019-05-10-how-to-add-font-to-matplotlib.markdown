@@ -4,7 +4,7 @@ date: 2019-05-10
 categories:
   - Tutorial
 tags:
-  - matplotlib
+  - Matplotlib
 ---
 ## 1. 下载安装字体
 由于matplotlib只支持.ttf格式的字体，所以需要先在网上下载相应格式的字体并安装。

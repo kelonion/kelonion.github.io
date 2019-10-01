@@ -36,6 +36,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
+  font-weight: 350;
   font-family: $sans-serif-narrow;
   line-height: initial;
   overflow: hidden;
@@ -64,8 +65,9 @@
 }
 
 .archive__item-excerpt {
+  color: #8f8f8f;
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
 
   & + p {
     text-indent: 0;
@@ -116,8 +118,9 @@
    ========================================================================== */
 
 .list__item {
+  margin-bottom: 60px;
   .page__meta {
-    margin: 0 0 4px;
+    margin: 0 0 8px;
     font-size: 0.6em;
   }
 }

@@ -4,7 +4,7 @@ date: 2019-05-24
 categories:
   - Tutorial
 tags:
-  - jekyll
+  - Jekyll
   - Github
 ---
 
