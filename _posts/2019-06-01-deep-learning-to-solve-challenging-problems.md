@@ -4,6 +4,7 @@ date: 2019-06-01
 categories:
   - Article
 tags:
+  - Article
   - Deep Learning
 toc: true
 toc_label: 文章目录

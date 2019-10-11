@@ -4,7 +4,8 @@ date: 2019-05-01
 categories:
   - Article
 tags:
-  - DL
+  - Article
+  - Deep Learning
 ---
 
 In this post, I listed out all the materials I used when I started to learn Machine Learning from zero.

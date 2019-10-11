@@ -4,8 +4,8 @@ date: 2019-05-24
 categories:
   - Tutorial
 tags:
-  - DL
   - Tutorial
+  - Deep Learning
 toc: true
 toc_label: 文章目录
 ---
