@@ -2,9 +2,9 @@
 title: "机器学习参考资料"
 date: 2019-05-01
 categories:
-  - Blog
+  - Article
 tags:
-  - Deep Learning
+  - DL
 ---
 
 In this post, I listed out all the materials I used when I started to learn Machine Learning from zero.

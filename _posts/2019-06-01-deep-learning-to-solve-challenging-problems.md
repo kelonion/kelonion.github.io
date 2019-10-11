@@ -2,7 +2,7 @@
 title: "学习Google如何用DL改变世界"
 date: 2019-06-01
 categories:
-  - Blog
+  - Article
 tags:
   - Deep Learning
 toc: true

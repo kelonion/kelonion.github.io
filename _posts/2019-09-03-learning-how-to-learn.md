@@ -2,7 +2,7 @@
 title: "如何学习才最有效？"
 date: 2019-09-03
 categories:
-  - Blog
+  - Article
 tags:
   - Learning
 toc: true

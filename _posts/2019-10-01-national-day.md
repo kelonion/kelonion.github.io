@@ -2,7 +2,7 @@
 title: "记70周年国庆"
 date: 2019-10-01
 categories:
-  - Blog
+  - Article
 tags:
   - Prose
 ---

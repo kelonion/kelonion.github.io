@@ -4,6 +4,7 @@ date: 2019-05-10
 categories:
   - Tutorial
 tags:
+  - Tutorial
   - Matplotlib
 ---
 ## 1. 下载安装字体
